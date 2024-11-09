@@ -1,4 +1,4 @@
-fn main(){
+fn main(){//test for commit
 	let mut max: u32 = 0;
 	let mut i: u32 = 999;
 	let mut j: u32 = 999;
